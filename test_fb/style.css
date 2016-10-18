@@ -1,0 +1,44 @@
+* {
+	margin: 0;
+	font-family: Helvetica;
+}
+
+section {
+    margin: 114px auto;
+    width: 30%;
+    background-color: aliceblue;
+    padding: 0.5em 1.5em;
+}
+
+
+input.name {
+    width: 48%;
+}
+
+input[type="text"] {
+    margin-bottom: 10px;
+    height: 1.5em;
+    width: 98.3%;
+}
+
+h4 {
+    font-weight: 500;
+    margin-bottom: 1.2em;
+}
+
+a#bday {
+    font-size: 0.6em;
+}
+
+input[type="radio"] {
+    margin: 1.3em 0.7em;
+}
+
+p#disclaimer {
+    font-size: 0.7em;
+    margin-bottom: 1.0em;
+}
+
+h1 {
+    margin-bottom: 0.2em;
+}
